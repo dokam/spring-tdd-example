@@ -1,6 +1,6 @@
 Spring: Test-Driven Development with JUnit by Shonna Smith (LinkedIn Learning)
 
-###############################################################################################################################################
+#######################################################
 
 # springboot-thymeleaf-crud-pagination-sorting-webapp
 
